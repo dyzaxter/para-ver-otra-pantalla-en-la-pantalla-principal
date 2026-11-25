@@ -1,0 +1,14 @@
+Controles de teclado:
+
+1-4 → cambiar de monitor
+
++ / - → ajustar FPS (5 a 120)
+
+T → siempre encima
+
+C → mostrar/ocultar cursor
+
+F → pantalla completa
+
+Esc → salir
+
